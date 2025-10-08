@@ -1,0 +1,7 @@
+autogluon
+numba==0.56.0
+pillow
+tensorflow
+keras
+shutil
+random
