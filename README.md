@@ -18,9 +18,9 @@ Dependencies:
 - pillow
 
 Usage:
--Install dependencies using pip install -r requirements.txt.
--Run the model training script that utilizes AutoGluon for automated image classification.
--AutoGluon will automatically preprocess the data, train multiple models, and provide the best-performing one.
+- Install dependencies using pip install -r requirements.txt.
+- Run the model training script that utilizes AutoGluon for automated image classification.
+- AutoGluon will automatically preprocess the data, train multiple models, and provide the best-performing one.
 
 2. VGG16: Transfer Learning for Fruit Classification
 
@@ -34,16 +34,16 @@ Key Features:
 
 Dependencies:
 
--tensorflow
--keras
+- tensorflow
+- keras
 
 Usage:
 
--Install dependencies using pip install -r requirements.txt.
--Load the VGG16 model pre-trained on ImageNet.
-Fine-tune the model using your custom fruit dataset.
--Train the model and evaluate its performance.
--Comparing AutoGluon and VGG16
+- Install dependencies using pip install -r requirements.txt.
+- Load the VGG16 model pre-trained on ImageNet.
+- Fine-tune the model using your custom fruit dataset.
+- Train the model and evaluate its performance.
+- Comparing AutoGluon and VGG16
 
 
 AutoGluon automates the machine learning pipeline, making it easier for non-experts to train models. It abstracts away the complexities of model selection and hyperparameter tuning.
