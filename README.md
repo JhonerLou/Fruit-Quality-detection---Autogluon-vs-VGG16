@@ -49,3 +49,6 @@ Usage:
 AutoGluon automates the machine learning pipeline, making it easier for non-experts to train models. It abstracts away the complexities of model selection and hyperparameter tuning.
 VGG16 is a more traditional deep learning approach that requires hands-on management of data preprocessing, model design, and fine-tuning. It is a powerful model, but it requires more expertise in deep learning.
 Both approaches can be effective, but AutoGluon is ideal for those looking for a fast and automated solution, while VGG16 provides more control over the model architecture and training process.
+
+Dataset:
+https://drive.google.com/drive/folders/1TkGOf6vPGpLtL7_AIIojxBFzh9mI25mk?usp=sharing
